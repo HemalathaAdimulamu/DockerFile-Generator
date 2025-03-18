@@ -8,7 +8,7 @@ This project leverages **Generative AI** to automate the creation of **Dockerfil
 - Uses **Ollama (Local LLM)** and **Gemini AI (Google Cloud)**  
 - Follows Docker best practices for dependency installation, working directory setup, and application execution  
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Python** 
 - **Ollama (Local LLM)**  
 - **Google Gemini AI (Hosted LLM)**  
